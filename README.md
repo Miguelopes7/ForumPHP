@@ -1,5 +1,5 @@
 # ForumPHP
-Fórum Básico em PHP
+Fórum Básico em PHP e um pouco de CSS.
 
 Fórum simples que permite registar/logar e adicionar posts.
 
